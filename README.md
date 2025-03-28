@@ -11,6 +11,14 @@ This application leverages the powerful segmentation capabilities of the Segment
 3. Create a template from the segmented object
 4. Find similar objects in the image at various rotation angles (rotation-invariant matching)
 
+## Example Results
+
+### Object Segmentation and Template Creation
+![Segmentation Example](ScrShot_37.png)
+
+### Rotation-Invariant Matching Results
+![Matching Results](ScrShot_38.png)
+
 ## Features
 
 - Interactive GUI using Tkinter
